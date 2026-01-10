@@ -2,7 +2,7 @@
 A sample PowerBI dashboard created with real world insurance data
 
 ## Objective
-This project presents an approach for analyzing a raw dataset to generate valuable insights for key business functions using a python ETL pipelines and Microsft PowerBI dashboard. This landed me an internship offer at an US based organisation focused in Health Care.
+This project presents an approach for analyzing a raw dataset to generate valuable insights for key business functions using a python ETL pipelines and Microsft PowerBI dashboard. `This landed me an internship offer at an US based organisation focused in Health Care`.
 
 ## Challenge
 Prior to conducting any analysis, it is essential to thoroughly examine and process the data. Preprocessing and cleaning a raw dataset in Python involves several crucial steps to ensure that the data is well-structured, consistent, and prepared for analysis or modeling.
